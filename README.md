@@ -22,6 +22,7 @@ You will also add documentation and refactor the code to practice realistic vers
 The dataset contains randomly selected data for the first six months of 2017 for all three cities.  
 Each of the data files shares the same six (6) columns:  
 
+
 1. Start Time  
 2. End Time  
 3. Trip Duration  
@@ -32,3 +33,11 @@ Each of the data files shares the same six (6) columns:
 ## How to run
 ```bash
 python3 bikeshare.py
+
+## Project Overview
+This repo practices a real Git workflow: branches, commits, merges, and using .gitignore to exclude CSV data.
+
+## How to Run
+```bash
+python3 bikeshare.py
+
