@@ -34,10 +34,5 @@ Each of the data files shares the same six (6) columns:
 ```bash
 python3 bikeshare.py
 
-## Project Overview
-This repo practices a real Git workflow: branches, commits, merges, and using .gitignore to exclude CSV data.
 
-## How to Run
-```bash
-python3 bikeshare.py
 
