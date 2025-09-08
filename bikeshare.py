@@ -138,3 +138,7 @@ if __name__ == "__main__":
 
 # Default city constant for quick tests
 DEFAULT_CITY = "New York City"
+def greet_custom(city=None):
+    """Print greeting using DEFAULT_CITY if none provided."""
+    city = city or DEFAULT_CITY
+    print(f"Hello from Bikeshare Project! Analyzing trips in {city}…")
