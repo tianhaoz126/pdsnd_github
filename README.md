@@ -15,3 +15,6 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+
+## Project Overview
+This repo practices a real Git workflow: branches, commits, merges, and using .gitignore to exclude CSV data.
