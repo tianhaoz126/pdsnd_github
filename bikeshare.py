@@ -141,4 +141,4 @@ DEFAULT_CITY = "New York City"
 def greet_custom(city=None):
     """Print greeting using DEFAULT_CITY if none provided."""
     city = city or DEFAULT_CITY
-    print(f"Hello from Bikeshare Project! Analyzing trips in {city}…")
+    print(f"Hello from Bikeshare Project! Analyzing trip data in {city}…")
