@@ -135,3 +135,6 @@ def main():
 
 if __name__ == "__main__":
 	main()
+
+# Default city constant for quick tests
+DEFAULT_CITY = "New York City"
